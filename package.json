@@ -1,0 +1,23 @@
+{
+  "name": "soundspace",
+  "version": "0.1.0",
+  "description": "Music player built on Electron.",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^6.0.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salty-biscuits/soundspace.git"
+  },
+  "author": "salty-biscuits",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/salty-biscuits/soundspace/issues"
+  },
+  "homepage": "https://github.com/salty-biscuits/soundspace#readme"
+}
